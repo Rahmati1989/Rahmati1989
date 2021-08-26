@@ -4,17 +4,6 @@ I possess strong team spirit with the necessary flexibility to succeed as demons
 My skills includes Web Development, Computer troubleshooting, networking, data entry, database and administrative work. 
 I possess good data management and communication skills, I self, motivated, and able to work will under stress.
 
-# Hello 👋 my name is Jim Moua
-
-- 🔭 I'm currently working on ... Front-End Mini Projects
-- 🏫 I'm currently still going to ... Lambda School
-- 🌱 I'm currently learning ... Python and Computer Science
-- 👯 I'm looking to collaborate on ... React
-- 🤔 I'm looking for help with ... Algorithms and Data Structure
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... jimmoua4@gmail.com
-- 😄 Pronouns: ... He/Him
-
 \
 &nbsp;
 ## Current Stacks
@@ -44,12 +33,12 @@ Find me around the web :
   Tinkering with interaction on https://replit.com/
 
 Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ... Python
-- 👯 I’m looking to collaborate on ... Node.jsn
-- 🤔 I’m looking for help with ... AWS
+- 🔭 I'm currently working on ... Back-End Mini Projects
+- 🌱 I’m currently learning ... Python & CS
+- 👯 I’m looking to collaborate on ... ReactJS
+- 🤔 I’m looking for help with ... Algorithm 
 - 💬 Ask me about ... Web Devolpment
-- 📫 How to reach me: ... (https://www.linkedin.com/in/rafiullah-rahmati-70958118a/)
+- 📫 How to reach me: ... (https://www.linkedin.com/in/rafiullah-rahmati-70958118a/), RahmatiRafi@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am about to finish my school soon
+- ⚡ Fun fact: ... I am about to finish my school.
 -->
