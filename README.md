@@ -3,20 +3,16 @@ Hello, I am Rafiullah Rahmati currently student in Lambda school.
 I possess strong team spirit with the necessary flexibility to succeed as demonstrated over many working years.
 My skills includes Web Development, Computer troubleshooting, networking, data entry, database and administrative work. 
 I possess good data management and communication skills, I self, motivated, and able to work will under stress.
-
 \
 &nbsp;
-## Current Stacks
+## Front End
 [![](https://i.postimg.cc/90VnWVK5/html.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![](https://i.postimg.cc/c4zBh0hx/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![](https://i.postimg.cc/qqLZqSHt/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://i.postimg.cc/y8gzdmvV/react.png)](https://reactjs.org/)
-[![](https://i.postimg.cc/cJtXzb6V/redux.png)](https://redux-toolkit.js.org/)
-[![](https://i.postimg.cc/25nRdCsM/sass.png)](https://sass-lang.com/)
+## Back End
 [![](https://i.postimg.cc/52hWFXR8/node-js.png)](https://nodejs.org/en/)
-[![](https://i.postimg.cc/ncwJpRKR/mysql.png)](https://www.mysql.com/)
 [![](https://i.postimg.cc/4dZCBrZd/postgresql.png)](https://www.postgresql.org/)
-[![](https://i.postimg.cc/KvT6hGzz/jest.png)](https://jestjs.io/)
 [![](https://i.postimg.cc/52PfgmdT/python.png)](https://www.python.org/)
 \
 &nbsp;
