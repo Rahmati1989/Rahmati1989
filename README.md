@@ -4,6 +4,8 @@ I possess strong team spirit with the necessary flexibility to succeed as demons
 My skills includes Web Development, Computer troubleshooting, networking, data entry, database and administrative work. 
 I possess good data management and communication skills, I self, motivated, and able to work will under stress.
 
+https://i.postimg.cc/ncwJpRKR/mysql.png)](https://www.mysql.com/
+
 Find me around the web :
   Twiter: https://twitter.com/RafiullahRahmat
   Tinkering with interaction on https://replit.com/
