@@ -3,6 +3,20 @@ Hello, I am Rafiullah Rahmati currently student in Lambda school.
 I possess strong team spirit with the necessary flexibility to succeed as demonstrated over many working years.
 My skills includes Web Development, Computer troubleshooting, networking, data entry, database and administrative work. 
 I possess good data management and communication skills, I self, motivated, and able to work will under stress.
+
+Find me around the web :
+  Twiter: https://twitter.com/RafiullahRahmat
+  Tinkering with interaction on https://replit.com/
+
+Here are some ideas to get you started:
+- 🔭 I'm currently working on ... Back-End Mini Projects
+- 🌱 I’m currently learning ... Python & CS
+- 👯 I’m looking to collaborate on ... ReactJS
+- 🤔 I’m looking for help with ... Algorithm 
+- 💬 Ask me about ... Web Devolpment
+- 📫 How to reach me: ... (https://www.linkedin.com/in/rafiullah-rahmati-70958118a/), RahmatiRafi@gmail.com
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I am about to finish my school.
 \
 &nbsp;
 ## Front End
@@ -24,17 +38,5 @@ I possess good data management and communication skills, I self, motivated, and 
 [![](https://i.postimg.cc/g0ycRLqB/netlify.png)](https://www.netlify.com/)
 [![](https://i.postimg.cc/fbQTJfX9/heroku.png)](https://www.heroku.com/)
 
-Find me around the web :
-  Twiter: https://twitter.com/RafiullahRahmat
-  Tinkering with interaction on https://replit.com/
 
-Here are some ideas to get you started:
-- 🔭 I'm currently working on ... Back-End Mini Projects
-- 🌱 I’m currently learning ... Python & CS
-- 👯 I’m looking to collaborate on ... ReactJS
-- 🤔 I’m looking for help with ... Algorithm 
-- 💬 Ask me about ... Web Devolpment
-- 📫 How to reach me: ... (https://www.linkedin.com/in/rafiullah-rahmati-70958118a/), RahmatiRafi@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am about to finish my school.
 -->
