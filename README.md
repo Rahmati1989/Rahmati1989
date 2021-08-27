@@ -37,5 +37,3 @@ Here are some ideas to get you started:
 [![](https://i.postimg.cc/g0ycRLqB/netlify.png)](https://www.netlify.com/)
 [![](https://i.postimg.cc/fbQTJfX9/heroku.png)](https://www.heroku.com/)
 
-
--->
