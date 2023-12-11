@@ -8,14 +8,14 @@ Find me around the web :
   Tinkering with interaction on https://replit.com/
 
 Here are some ideas to get you started:
-- 🔭 I'm currently working on ... Back-End Mini Projects
-- 🌱 I’m currently learning ... Python & CS
+- 🔭 I'm currently working on ... Personal Projects
+- 🌱 I’m currently learning ... Highl level programming languages
 - 👯 I’m looking to collaborate on ... ReactJS
 - 🤔 I’m looking for help with ... Algorithm 
 - 💬 Ask me about ... Web Devolpment
 - 📫 How to reach me: ... (https://www.linkedin.com/in/rafiullah-rahmati-70958118a/), RahmatiRafi@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am about to finish my school.
+- ⚡ Fun fact: ... I love teaching.
 \
 &nbsp;
 ## Front End
